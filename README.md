@@ -16,7 +16,7 @@ Queue Management for Event Check-In Counters
 
   In a scenario where a large event is expected to have a significant number of attendees arriving for check-in, event organizers employ our QMS to efficiently manage the queue leading up to the check-in desk.
   ### Use Case Flow
-  1. **Create virtual queue**: Event organizers login to our platform to set up a specific queue for the event check-in process in 2 steps.
+  1. **Create virtual queue**: Event organizers login to our platform to set up a specific queue for the event check-in process in less than 2 minutes.
   2. **QR Code Generation**: The platform generates a unique QR code for this queue, which is then printed and prominently displayed at the entrance to the event check-in area.
   3. **Attendee Arrival**: As event attendees arrive at the venue, they see the displayed QR code and use their smartphones to scan it.
   4. **Scan and Book token**: After scanning the QR code, the queue booking webpage opens, where the user enters their name and mobile number to book the token. Immediately, attendees are assigned a digital token and receive a confirmation message on their mobile devices. This token indicates their position in the virtual queue for event check-in.
