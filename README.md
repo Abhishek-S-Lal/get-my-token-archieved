@@ -34,3 +34,24 @@ Queue Management for Event Check-In Counters
 6. **Auditory Updates:** The platform allows for token read-aloud functionality, ensuring that announcements can be conveyed audibly in multiple languages, enhancing inclusivity and providing an additional layer of information.
 7. **Event Flexibility**: As the virtual queue setup is quick and easy, event organizers can adapt the platform to various one-time events without the complexity of maintaining a continuous QMS.
 8. **Customization**: Event organizers can tailor the queue settings, welcome messages, and configurations to meet the specific needs and branding of each one-time event.
+
+
+# Development
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+## Getting Started
+
+First, run the development server:
+
+```bash
+npm run dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+
+## Deploy on Vercel
+
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
